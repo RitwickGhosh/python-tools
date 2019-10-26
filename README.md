@@ -20,6 +20,7 @@ Welcome everyone to contribute to this project!
 - [fibonacci.py](https://github.com/Henry-Jia/python-tools/blob/master/fibonacci.py): there're 2 algorithms that make the fibonacci with recursive and looping
 - [gcd.py](https://github.com/Henry-Jia/python-tools/blob/master/gcd.py): calculate the greatest common divisor
 - [igdata.py](https://github.com/Henry-Jia/python-tools/blob/master/igdata.py): Instagram Scraper, Scrapes data from public instagram profile and posts and saves it into json file.
+- [image_compressor.py](https://github.com/Henry-Jia/python-tools/blob/master/image_compressor.py): This is an Image Compression example using K-Means Clustering algorithm.
 - [image_stitching.py](https://github.com/Henry-Jia/python-tools/blob/master/image_stitching.py): stitching images using opencv
 - [imagerecognition.py](https://github.com/Henry-Jia/python-tools/blob/master/imagerecognition.py): facial recognition in python
 - [img2video.py](https://github.com/Henry-Jia/python-tools/blob/master/img2video.py): turn images to video
